@@ -1,2 +1,5 @@
-arquivos/*
+arquivos divididos/*
+arquivos originais/*
+arquivos processados/*
+venv
 chromedriver.exe
